@@ -1,0 +1,17 @@
+#cars-main{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+#cars-container{
+    display: block;
+    float: left;
+    width: 30%;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#cars-container form{
+    text-align: right;
+}
